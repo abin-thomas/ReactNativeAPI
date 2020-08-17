@@ -1,0 +1,12 @@
+{
+  "name": "APITutorial",
+  "displayName": "APITutorial",
+  "expo": {
+    "name": "APITutorial",
+    "slug": "APITutorial",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
